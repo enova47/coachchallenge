@@ -1,4 +1,4 @@
-# coachchallenge
+# 2019-2020 Coach's Challenge Review
 **Background**
 
 The NBA instituted the coach’s challenge on a one-year trial basis for the 2019-2020 NBA season. The coach’s challenge allows instant replay review of personal foul calls (offensive and defensive) to the challenging team, out-of-bounds, and goaltending/basket interference. Challenges of out-of-bounds and goaltending/basket interference in the last two minutes of the fourth quarter and any overtime periods are not allowed.
